@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Suraj Pandey] 👋
 
 ### 🚀 CSE Student | Full Stack & Blockchain Developer
 I build secure, scalable decentralized applications and modern web platforms. 
