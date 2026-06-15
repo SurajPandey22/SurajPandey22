@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**SurajPandey22/SurajPandey22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 CSE Student | Full Stack & Blockchain Developer
+I build secure, scalable decentralized applications and modern web platforms. 
+Currently working on bridging the gap between Web2 UI/UX and Web3 infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tooling
+
+<!-- Badges generated via Shields.io -->
+![TypeScript](https://shields.io)
+![Solidity](https://shields.io)
+![Rust](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![Next.js](https://shields.io)
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<!-- Replace 'YOUR_USERNAME' with your actual GitHub username below -->
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_URL)
+[![Twitter/X](https://shields.io)](YOUR_TWITTER_URL)
+[![Portfolio](https://shields.io)](YOUR_PORTFOLIO_URL)
